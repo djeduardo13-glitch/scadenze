@@ -1,0 +1,22 @@
+{
+  "name": "Scadenze Famiglia",
+  "short_name": "Scadenze",
+  "description": "Gestione documenti familiari con reminder locale e report WhatsApp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f5f9",
+  "theme_color": "#0a7a44",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

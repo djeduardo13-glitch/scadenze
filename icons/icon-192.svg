@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="Scadenze Famiglia">
+  <rect width="192" height="192" rx="36" fill="#0a7a44"/>
+  <rect x="26" y="34" width="140" height="124" rx="18" fill="#ffffff" opacity="0.96"/>
+  <rect x="40" y="58" width="68" height="14" rx="7" fill="#0a7a44"/>
+  <rect x="40" y="84" width="112" height="10" rx="5" fill="#9db2c8"/>
+  <rect x="40" y="102" width="88" height="10" rx="5" fill="#c1cedd"/>
+  <circle cx="136" cy="126" r="16" fill="#25d366"/>
+  <path d="M128 126l6 6 10-12" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
